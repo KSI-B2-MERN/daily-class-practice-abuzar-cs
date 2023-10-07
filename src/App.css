@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.NewHeader {
+  color: red;
+  font-size: 25px;
+}
