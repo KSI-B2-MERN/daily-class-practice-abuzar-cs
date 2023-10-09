@@ -1,4 +1,39 @@
-.App {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -39,4 +74,4 @@
 .NewHeader {
   color: red;
   font-size: 25px;
-}
+} */
